@@ -68,8 +68,8 @@
 
             display-name = "Lower";
             bindings = <
-&kp ESC       &kp C_PLAY  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP       &trans                 &trans                                    &kp GRAVE  &kp EXCL         &kp AT       &kp HASH   &kp DOLLAR  &kp PERCENT
-&bt BT_CLR    &kp F2      &kp SINGLE_QUOTE   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp KP_PLUS                               &kp PIPE   &kp LEFT         &kp UP       &kp RIGHT  &trans      &trans
+&kp ESC       &kp C_PLAY  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP       &kp C_PREV             &kp C_NEXT                                &kp GRAVE  &kp EXCL         &kp AT       &kp HASH   &kp DOLLAR  &kp PERCENT
+&bt BT_CLR    &kp F2      &kp PIPE           &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp KP_PLUS                               &kp PIPE   &kp LEFT         &kp UP       &kp RIGHT  &trans      &trans
 &bt BT_SEL 0  &kp F8      &kp DOLLAR         &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EQUAL                                 &kp CARET  &kp AMPS         &kp DOWN     &kp LPAR   &kp RPAR    &kp TILDE
 &bt BT_SEL 1  &kp CARET   &kp AT_SIGN        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSLASH  &LOWER_OR_EQ    &GR_OR_EQ  &kp EQUAL  &kp KP_MULTIPLY  &kp KP_PLUS  &dashgt    &trans      &kp PIPE
                                              &trans                &trans                 &trans         &trans          &kp ENTER  &trans     &trans           &trans
